@@ -1,2 +1,2 @@
 # unix-scripts
-👨 💻 Unix based systems utility scripts
+👨 💻 WSL & Unix based systems utility scripts
